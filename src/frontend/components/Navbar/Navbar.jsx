@@ -20,7 +20,7 @@ const Navbar = () => {
           <h3 className={styles.logo}>
             Anjaan Baba{" "}
             <span className={styles.logoTheme}>
-              Store{!isNavInLoginOrSignupPage ? "." : "tronics"}
+              Store{!isNavInLoginOrSignupPage ? "." : ""}
             </span>
           </h3>
         </Link>

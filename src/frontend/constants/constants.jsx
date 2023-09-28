@@ -112,28 +112,28 @@ export const ALL_STATES = [
 export const COUPONS = [
   {
     id: uuid(),
-    couponCode: "DAYA01",
+    couponCode: "4GBABA",
     text: "30% Off",
     discountPercent: 30,
     minCartPriceRequired: 150000,
   },
   {
     id: uuid(),
-    couponCode: "BABITA02",
+    couponCode: "ANJAAN34",
     text: "20% Off",
     discountPercent: 20,
     minCartPriceRequired: 100000,
   },
   {
     id: uuid(),
-    couponCode: "TAPU03",
+    couponCode: "HYPER98",
     text: "10% Off",
     discountPercent: 10,
     minCartPriceRequired: 50000,
   },
   {
     id: uuid(),
-    couponCode: "BAPUJI04",
+    couponCode: "3GBABA04",
     text: "5% Off",
     discountPercent: 5,
     minCartPriceRequired: 20000,

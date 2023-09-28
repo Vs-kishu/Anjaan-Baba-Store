@@ -91,7 +91,7 @@ const CheckoutDetails = ({
         name: "Anjaan baba store",
         description: "Thank you for shopping with us",
         image:
-          "https://res.cloudinary.com/dtbd1y4en/image/upload/v1685641105/apple-touch-icon_edbdny.png",
+          "https://res.cloudinary.com/dngrtoqfe/image/upload/v1695705672/anjaan%20baba%20store/pwzmjmpm07uqubmvrve0.png",
 
         handler: async (response) => {
           const tempObj = {
@@ -114,7 +114,7 @@ const CheckoutDetails = ({
         prefill: {
           name: `${firstName} ${lastName}`,
           email: email,
-          contact: "9090909098u",
+          contact: "9625695584",
         },
         theme: {
           color: "var(--primary-500)",
