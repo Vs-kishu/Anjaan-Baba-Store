@@ -53,8 +53,7 @@
 
 @media screen and (max-width: 768px) {
   .linksContainer {
-    width: 60%;
-    max-width: 15rem;
+    width: 100%;
     margin-bottom: 0.35rem;
     margin-left: -1.5rem;
   }
